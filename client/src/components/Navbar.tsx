@@ -7,7 +7,7 @@ const Navbar = () => {
         <AppBar position="static">
             <Toolbar>
                 <Typography variant="h6" component="div">
-                    <Link to="/" style={{textDecoration: "none", color:"white"}}>ReactLogin</Link>
+                    <Link to="/" style={{textDecoration: "none", color:"white"}}>Buttons</Link>
                     
                 </Typography>
                 <Box alignItems="right" sx={{flexGrow: 1, textAlign: "right"}}>
